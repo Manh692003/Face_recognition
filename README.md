@@ -1,4 +1,4 @@
-# Face_recognition
+# Máy chấm công
 
 Chương trình nhân diện khuôn mặt bằng OpenCV
 
